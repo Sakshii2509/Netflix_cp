@@ -1,7 +1,8 @@
 # Netflix_cp
 **Netflix Cloning Project on AWS**
 
-Objective: Demonstrated cloud infrastructure setup and CI/CD pipeline implementation by deploying an AWS EC2 instance, configuring Jenkins, and cloning a Netflix open-source repository.
+Objective: 
+Demonstrated cloud infrastructure setup and CI/CD pipeline implementation by deploying an AWS EC2 instance, configuring Jenkins, and cloning a Netflix open-source repository.
 
 Responsibilities:
 1. Launched and configured an AWS EC2 Linux instance, installed Jenkins, and automated build and testing processes.
