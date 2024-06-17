@@ -10,3 +10,4 @@ Responsibilities:
    
 Technologies Used: AWS EC2, Jenkins, Trivy, Git, GitHub, Bash, Linux (Ubuntu)
 
+Skills Gained:* Cloud infrastructure management, CI/CD pipeline setup, security scanning, version control, troubleshooting in cloud environments.
