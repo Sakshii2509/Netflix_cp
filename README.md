@@ -1,4 +1,3 @@
-# Netflix_cp
 **Netflix Cloning Project on AWS**
 
 Objective: 
